@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'rails', '3.2.6'
+gem 'rails', '3.2.22.5'
 gem 'therubyracer'
 gem "paperclip", :git => "git://github.com/thoughtbot/paperclip.git"
 gem 'paypal_adaptive'
